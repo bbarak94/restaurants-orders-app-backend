@@ -26,10 +26,15 @@ const authRoutes = require('./api/auth/auth.routes')
 const orderRoutes = require('./api/order/order.routes')
 const userRoutes = require('./api/user/user.routes')
 
+// routes
+const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware')
+app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/auth', authRoutes)
 app.use('/api/order', orderRoutes)
 app.use('/api/user', userRoutes)
+
+setupSocketAPI(http)
 
 // Make every server-side-route to match the index.html
 // so when requesting http://localhost:3030/index.html/car/123 it will still respond with
