@@ -1,6 +1,7 @@
 {
-  "name": "restaurants-orders-app-backend",
+  "name": "server",
   "version": "1.0.0",
+  "description": "production ready server",
   "main": "server.js",
   "keywords": [],
   "author": "",
@@ -23,6 +24,5 @@
     "mongodb": "^3.2.7",
     "nodemon": "^2.0.18",
     "path": "^0.12.7"
-  },
-  "description": ""
+  }
 }
