@@ -1,0 +1,30 @@
+[
+   {
+       "fullname":"Ilan Finkel",
+       "username": "order-app",
+       "password": "order-app",
+       "isAdmin": true,
+       "API_KEY": "MNX3UcKxAxm4UozfRteGQV4cDx2WnvUhXnvabNCZUhM"
+   },
+   {
+       "fullname":"Yokozuna",
+       "username": "yokozuna",
+       "password": "yokozuna",
+       "isAdmin": false,
+       "API_KEY": "PZHrGDgeQf9CJ64GqAWuVZfbJHHePn0Ws0A65JAH9bI"
+   },
+   {
+       "fullname":"Japanika",
+       "username": "japanika",
+       "password": "japanika",
+       "isAdmin": false,
+       "API_KEY": "_jUfjcsryFr8sWr5UpzEglFk7L2Fk4LKczVcRFznnZ4"
+   },
+   {
+       "fullname":"Wok-To-Wok",
+       "username": "wok-to-wok",
+       "password": "wok-to-wok",
+       "isAdmin": false,
+       "API_KEY": "OX9CXj8s6JFKmkIP04aEH2UURphEXPCaxLuKXZ-C8hU"
+   }
+]
