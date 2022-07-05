@@ -7,7 +7,7 @@
   "license": "ISC",
   "scripts": {
     "start": "node server.js",
-    "build": "set NODE_ENV=development&&nodemon server.js",
+    "dev": "set NODE_ENV=development&&nodemon server.js",
     "server:dev": "set NODE_ENV=development&&nodemon server.js",
     "server:prod": "set NODE_ENV=production&&node server.js"
   },
