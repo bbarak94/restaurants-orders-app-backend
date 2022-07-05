@@ -34,7 +34,7 @@ app.use('/api/auth', authRoutes)
 app.use('/api/order', orderRoutes)
 app.use('/api/user', userRoutes)
 
-setupSocketAPI(http)
+// setupSocketAPI(http)
 
 // Make every server-side-route to match the index.html
 // so when requesting http://localhost:3030/index.html/car/123 it will still respond with
