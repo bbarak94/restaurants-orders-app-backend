@@ -11846,3 +11846,19 @@
 6.7.2022, 19:22:44 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
 6.7.2022, 19:22:46 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
 6.7.2022, 19:23:38 - INFO - Server is running on port: 3030 
+6.7.2022, 19:37:15 - INFO - Server is running on port: 3030 
+6.7.2022, 19:37:22 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:37:24 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:37:25 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:37:27 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:40:50 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:43:35 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:44:03 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:49:26 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:49:44 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:49:45 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:50:35 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:51:23 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:53:12 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:53:43 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 20:03:44 - INFO - Server is running on port: 3030 
