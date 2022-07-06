@@ -11626,3 +11626,223 @@
 5.7.2022, 16:46:23 - INFO - Server is running on port: 3030 
 5.7.2022, 16:50:54 - INFO - Server is running on port: 3030 
 5.7.2022, 16:58:21 - INFO - Server is running on port: 3030 
+6.7.2022, 11:18:29 - INFO - Server is running on port: 3030 
+6.7.2022, 11:37:11 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 11:37:13 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 11:37:13 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 11:37:14 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 11:37:14 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 11:37:15 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 11:38:49 - DEBUG - auth.service - login with username: japanika 
+6.7.2022, 11:38:49 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} 
+6.7.2022, 11:38:49 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 11:39:12 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 11:41:42 - DEBUG - auth.service - login with username: japanika 
+6.7.2022, 11:41:42 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} 
+6.7.2022, 11:41:42 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 11:42:22 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 11:48:16 - DEBUG - auth.service - login with username: japanika 
+6.7.2022, 11:48:17 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} 
+6.7.2022, 11:48:17 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 11:56:07 - DEBUG - auth.service - login with username: japanika 
+6.7.2022, 11:56:07 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} 
+6.7.2022, 11:56:07 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 11:56:38 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 11:56:38 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} 
+6.7.2022, 11:56:38 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 11:57:08 - DEBUG - auth.service - login with username: barak 
+6.7.2022, 11:57:09 - INFO - User login:  | {"_id":"62c444907cb1140016d10d4e","username":"barak","fullname":"Barak","isAdmin":false,"API_KEY":"","activePrinters":[],"zones":[]} 
+6.7.2022, 11:57:09 - DEBUG - Getting Orders (userId: 62c444907cb1140016d10d4e)
+6.7.2022, 11:59:04 - DEBUG - auth.service - login with username: japanika 
+6.7.2022, 11:59:05 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} 
+6.7.2022, 11:59:05 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:00:51 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 12:00:52 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} 
+6.7.2022, 12:00:52 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 12:00:54 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 12:01:09 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 12:01:10 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} 
+6.7.2022, 12:01:10 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 12:01:43 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 12:01:43 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} 
+6.7.2022, 12:01:44 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 12:22:31 - DEBUG - auth.service - login with username: japanika 
+6.7.2022, 12:22:32 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} 
+6.7.2022, 12:22:32 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:22:33 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:22:42 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:30:33 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:32:04 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:42:15 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:42:16 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:49:12 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:54:35 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 12:54:59 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 12:54:59 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} 
+6.7.2022, 12:55:00 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:22:27 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:22:28 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:39:21 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:52:50 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 13:52:50 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[]} 
+6.7.2022, 13:52:51 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:52:55 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:53:28 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:53:59 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:55:56 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:55:57 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:57:13 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:57:22 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:57:28 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:57:41 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:58:03 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:58:20 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:58:22 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:58:25 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:59:30 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:59:33 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 13:59:48 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:01:02 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:01:32 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:18:26 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:18:35 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:21:09 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:24:58 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:24:59 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"A zone","city":"נשר","streets":["הנוריות","הורדים"]},{"name":"B zone","city":"תל אביב","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:24:59 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:25:31 - DEBUG - auth.service - signup with username: 123, fullname: 123 
+6.7.2022, 14:25:31 - DEBUG - auth.route - new account created: {"username":"123","password":"$2a$10$5Mb.PjTzsjzPAyrLleL7Gecd2xcfxoFWCMXncoCQiV6UexKkT6os6","fullname":"123","isAdmin":false,"API_KEY":"","activePrinters":[],"zones":[],"_id":"62c5712b9ac75f82480cd221"} 
+6.7.2022, 14:25:31 - DEBUG - auth.service - login with username: 123 
+6.7.2022, 14:25:31 - INFO - User signup: | {"_id":"62c5712b9ac75f82480cd221","username":"123","fullname":"123","isAdmin":false,"API_KEY":"","activePrinters":[],"zones":[]} 
+6.7.2022, 14:25:45 - DEBUG - auth.service - login with username: admin (userId: 62c5712b9ac75f82480cd221)
+6.7.2022, 14:25:45 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"A zone","city":"נשר","streets":["הנוריות","הורדים"]},{"name":"B zone","city":"תל אביב","streets":["חיננית","רוטשילד"]}]} (userId: 62c5712b9ac75f82480cd221)
+6.7.2022, 14:25:45 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:40:54 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:41:03 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 14:41:07 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 15:15:13 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 15:15:13 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"A zone","city":"נשר","streets":["הנוריות","הורדים"]},{"name":"B zone","city":"תל אביב","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 15:15:13 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 15:44:39 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 15:44:39 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"A zone","city":"נשר","streets":["הנוריות","הורדים"]},{"name":"B zone","city":"תל אביב","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 15:44:39 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 15:53:36 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:34:21 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 16:34:21 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"A zone111","city":"נשר","streets":["הנוריות","הורדים"]},{"name":"B zone","city":"תל אביב","streets":["חיננית","רוטשילד"]}]} 
+6.7.2022, 16:34:22 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:35:22 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 16:35:22 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"A zone111","city":"נשר","streets":["הנוריות","הורדים"]},{"name":"B zone","city":"תל אביב","streets":["חיננית","רוטשילד"]}]} 
+6.7.2022, 16:35:22 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:40:47 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:40:47 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"11111","city":"נשר2","streets":["הנוריות","הורדים"]},{"name":"","city":"תל אב","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:40:47 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:41:24 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:41:24 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"A zone111","city":"נשר","streets":["הנוריות","הורדים"]},{"name":"B zone","city":"תל אביב","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:41:24 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:49:01 - DEBUG - auth.service - login with username: japanika (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:49:01 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:49:01 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 16:49:21 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 16:49:56 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 16:50:55 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 16:54:32 - DEBUG - auth.service - login with username: admin 
+6.7.2022, 16:54:32 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"123","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"555","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} 
+6.7.2022, 16:54:32 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:56:47 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 16:57:44 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:00:40 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:02:43 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:02:46 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:25:00 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:25:00 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:25:01 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:25:02 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:50:11 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:53:57 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:53:57 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:53:57 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:53:59 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:54:03 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:54:13 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:58:42 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:58:56 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:59:13 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:59:14 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:59:35 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 17:59:48 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:00:14 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:01:16 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:01:17 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:01:23 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:02:00 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:02:01 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:02:39 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:04:24 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:04:27 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:04:34 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:04:45 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:04:48 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:23:01 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:25:22 - DEBUG - auth.service - login with username: japanika 
+6.7.2022, 18:25:22 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"בר","isSelected":true},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"סושי","isSelected":true}],"zones":[]} 
+6.7.2022, 18:25:22 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:25:25 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:26:14 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:26:55 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:36:37 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:36:45 - DEBUG - auth.service - login with username: admin (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:36:45 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:36:45 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:36:47 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:37:00 - DEBUG - auth.service - login with username: japanika (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:37:00 - INFO - User login:  | {"_id":"62c314c062812aa967ad76ab","username":"japanika","fullname":"Japanika","isAdmin":false,"API_KEY":"6R5ITIRx1y4OymXxpcAbMrN-2VW2z00Q_fq7QQd1K8U","activePrinters":[{"id":"71407596","customName":"מטבח","isSelected":true},{"id":"71407594","customName":"מדפסת","isSelected":false},{"id":"71407597","customName":"מסעדה","isSelected":false},{"id":"71407595","customName":"פקס","isSelected":true}],"zones":[]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:37:00 - DEBUG - Getting Orders (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:38:57 - DEBUG - auth.service - login with username: admin (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:38:57 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c314c062812aa967ad76ab)
+6.7.2022, 18:38:57 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:39:39 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:39:44 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:39:46 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:39:50 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:41:45 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:45:44 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:48:10 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:49:30 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:49:38 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:49:39 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:49:43 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:49:46 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:50:31 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:50:35 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:50:36 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:51:18 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:51:32 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:52:45 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:52:55 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:53:01 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:53:27 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:53:39 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:53:50 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:54:47 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:54:49 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:57:41 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:59:27 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:59:31 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:59:36 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 18:59:37 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:01:46 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:01:47 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:05:24 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:05:25 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:05:29 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:05:33 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:05:36 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:08:55 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:09:03 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:11:48 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:14:01 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:19:30 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:21:21 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:22:44 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:22:46 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 19:23:38 - INFO - Server is running on port: 3030 
