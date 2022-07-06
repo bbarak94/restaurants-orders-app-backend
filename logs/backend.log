@@ -11862,3 +11862,16 @@
 6.7.2022, 19:53:12 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
 6.7.2022, 19:53:43 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
 6.7.2022, 20:03:44 - INFO - Server is running on port: 3030 
+6.7.2022, 22:47:32 - INFO - Server is running on port: 3030 
+6.7.2022, 22:48:12 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:14 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:16 - DEBUG - auth.service - login with username: admin (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:18 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:19 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:20 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:20 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:20 - INFO - User login:  | {"_id":"62c3139762812aa967ad76a7","username":"admin","fullname":"Admin","isAdmin":true,"API_KEY":"I7-2Kl5GKqzJhvdv3oWMKc1IgU76MT0Kn9MkOGX8-GU","activePrinters":[{"id":"71407594","customName":"Microsoft XPS Document Writer","isSelected":true},{"id":"71407596","customName":"Microsoft Print to PDF","isSelected":true},{"id":"71407595","customName":"Fax","isSelected":false},{"id":"71407597","customName":"המדפסת שלי","isSelected":true}],"zones":[{"name":"בוקר","city":"נשרנשרררר","streets":["הנוריות","הורדים"]},{"name":"ערב","city":"5555","streets":["6","6"]},{"name":"456","city":"תל ברוך","streets":["חיננית","רוטשילד"]}]} (userId: 62c3139762812aa967ad76a7)
+6.7.2022, 22:48:21 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+7.7.2022, 0:01:31 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+7.7.2022, 0:01:32 - DEBUG - Getting Orders (userId: 62c3139762812aa967ad76a7)
+7.7.2022, 0:05:56 - INFO - Server is running on port: 3030 
